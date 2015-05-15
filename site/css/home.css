@@ -9,15 +9,15 @@ body {
 }
 
 #header {
-    background-color: white;
-    width: 1250px;
+    background-color: black;
+    width: 1150px;
     height: 170px;
     margin: 0 auto;
 }
 
 #acontainer {
-    background-color: black;
-    width: 1200px;
+    background-color: white;
+    width: 1100px;
     height: 50px;
     margin: 0 auto;
     margin-top: 15px;
@@ -31,35 +31,32 @@ body {
     padding-top: 15px;
 }
 
-a {
-   color: #4C0000;
+a{
+   color: #A31919;
    text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
 }
 
 a:hover{
-    color: white;
-}
-
-a:active{
-    color: white;
+    color: black;
 }
 
 #bcontainer {
-    width: 1200px;
+    width: 1100px;
     height: 400px;
     margin: 0 auto;
 }
 
 #a {
     background-color: black;
-    width: 655px;
+    width: 595px;
     height: 400px;
     float: left;
 }
 
 #b{
     background-color: darkslategrey;
-    width: 520px;
+    width: 485px;
     height: 400px;
     float: right;
 }
@@ -68,6 +65,6 @@ a:active{
     background-color: black;
     margin: 0 auto;
     margin-top: 15px;
-    width: 1200px;
+    width: 1100px;
     height: 300px;
 }
