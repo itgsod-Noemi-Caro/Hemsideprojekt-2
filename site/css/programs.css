@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+    background-image: url(../img/school.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#header {
+    background-color: white;
+    width: 1250px;
+    height: 170px;
+    margin: 0 auto;
+}
+
+#acontainer {
+    background-color: black;
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+
+#home, #about, #programs, #register{
+    font-size: 20px;
+    width: 25%;
+    text-align: center;
+    float: left;
+    padding-top: 15px;
+}
+
+#bcontainer {
+    background-color: white;
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+a:link{
+    color: #4C0000;
+}
+
+a:hover, a:active {
+    color: white;
+}
