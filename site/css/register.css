@@ -31,17 +31,18 @@ body {
     padding-top: 15px;
 }
 
+a {
+    color: #4C0000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
 #bcontainer {
     background-color: white;
     width: 1200px;
     height: 500px;
     margin: 0 auto;
-}
-
-a:link{
-    color: #4C0000;
-}
-
-a:hover, a:active {
-    color: white;
 }

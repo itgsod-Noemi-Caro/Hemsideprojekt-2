@@ -38,10 +38,12 @@ body {
     margin: 0 auto;
 }
 
-a:link{
-    color: #4C0000;
+a{
+    color: #A31919;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-a:hover, a:active {
-    color: white;
+a:hover{
+    color: black;
 }
