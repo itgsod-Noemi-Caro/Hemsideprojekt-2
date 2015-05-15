@@ -31,17 +31,43 @@ body {
     padding-top: 15px;
 }
 
+a {
+   color: #4C0000;
+   text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+a:active{
+    color: white;
+}
+
 #bcontainer {
-    background-color: white;
     width: 1200px;
-    height: 500px;
+    height: 400px;
     margin: 0 auto;
 }
 
-a:link{
-    color: #4C0000;
+#a {
+    background-color: black;
+    width: 655px;
+    height: 400px;
+    float: left;
 }
 
-a:hover, a:active {
-    color: white;
+#b{
+    background-color: darkslategrey;
+    width: 520px;
+    height: 400px;
+    float: right;
+}
+
+#ccontainer {
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 1200px;
+    height: 300px;
 }
