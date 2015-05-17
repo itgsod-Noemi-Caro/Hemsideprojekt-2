@@ -42,15 +42,16 @@ a:hover {
 
 #bcontainer {
     width: 1100px;
-    height: 400px;
+    height: 500px;
     margin: 0 auto;
 }
 
-#school {
+#a {
     background-color: rgba(255,255,255, 0.7);
     width: 1100px;
     height: 500px;
     padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 h1 {
@@ -62,9 +63,67 @@ hr {
     border-top: 1px dotted #7A0000;
 }
 
-#principal {
+#aa {
     background-color: #7A0000;
-    width: 302px;
-    height: 402px;
+    width: 306px;
+    height: 406px;
     margin-left: 50px;
+    padding: 1px;
+    float: left;
+}
+
+img {
+    margin: 3px;
+}
+
+#ab {
+    width: 670px;
+    height: 300px;
+    float: right;
+    margin-right: 50px;
+}
+
+#b {
+    background-color: rgba(255,255,255, 0.7);
+    width: 540px;
+    height: 260px;
+    margin-top: 15px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    float: left;
+}
+
+h2 {
+    margin-left: 50px;
+}
+
+#hrb, #hrc {
+    width: 450px;
+    border-top: 1px dotted #7A0000;
+}
+
+#ba, #ca {
+    background-color: #7A0000;
+    width: 154px;
+    height: 154px;
+    margin-left: 50px;
+    padding: 1px;
+    float: left;
+}
+
+#bb, #cb {
+    width: 270px;
+    height: 154px;
+    float: right;
+    margin-right: 50px;
+}
+
+#c {
+    background-color: rgba(255,255,255, 0.7);
+    width: 540px;
+    height: 260px;
+    margin-top: 15px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    float: right;
 }
