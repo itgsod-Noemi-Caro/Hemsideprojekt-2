@@ -10,20 +10,20 @@ body {
 
 #header {
     background-color: rgba(0, 0, 0, 0.8);
-    width: 1250px;
+    width: 1150px;
     height: 170px;
     margin: 0 auto;
 }
 
 #acontainer {
     background-color: #E6E6E6;
-    width: 1200px;
+    width: 1100px;
     height: 50px;
     margin: 0 auto;
     margin-top: 15px;
 }
 
-#home, #about, #programs, #register{
+#home, #about, #programs, #register {
     font-size: 20px;
     width: 25%;
     text-align: center;
@@ -32,17 +32,39 @@ body {
 }
 
 a {
-    color: #4C0000;
+    color: #A31919;
     text-decoration: none;
 }
 
 a:hover {
-    color: white;
+    color: black;
 }
 
 #bcontainer {
-    background-color: white;
-    width: 1200px;
-    height: 500px;
+    width: 1100px;
+    height: 400px;
     margin: 0 auto;
+}
+
+#school {
+    background-color: rgba(255,255,255, 0.7);
+    width: 1100px;
+    height: 500px;
+    padding-top: 10px;
+}
+
+h1 {
+    margin-left: 50px;
+}
+
+hr {
+    width: 1000px;
+    border-top: 1px dotted #7A0000;
+}
+
+#principal {
+    background-color: #7A0000;
+    width: 302px;
+    height: 402px;
+    margin-left: 50px;
 }
