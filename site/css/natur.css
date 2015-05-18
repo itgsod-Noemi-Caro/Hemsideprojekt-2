@@ -23,7 +23,7 @@ body {
     margin-top: 15px;
 }
 
-#home, #about, #programs, #register{
+#home, #about, #programs, #contact {
     font-size: 20px;
     width: 25%;
     text-align: center;
@@ -73,14 +73,19 @@ a:hover{
     background-color: #7A0000;
     width: 643px;
     height: 304px;
-    margin-left: 35px;
+    margin-left: 36px;
     margin-top: 20px;
     padding-left: 3px;
     padding-top: 3px;
 }
 
 h1 {
-    margin-left: 35px;
+    margin-left: 36px;
+}
+
+hr {
+    width: 645px;
+    border-top: 1px dotted #7A0000;
 }
 
 #bb {
